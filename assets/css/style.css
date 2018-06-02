@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.background {
+    background-image: url("https://images.unsplash.com/photo-1448006531138-949dfde20011?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=050c25a5bc6ec1a9cd86fedbca8ac4dd&auto=format&fit=crop&w=500&q=60");
+    
+}
+
+.title-jumbo {
+    font-weight: bold;
+}

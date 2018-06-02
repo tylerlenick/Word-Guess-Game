@@ -15,7 +15,7 @@ var randomWord = "";
 
 // Declare arrays
 
-var words = ['cat', 'dog', 'fish'];
+var words = ['pepperoni', 'cheese', 'onions', 'peppers', 'bacon', 'olives', 'sausage'];
 var correctLetter = [];
 var wrongLetter = [];
 var selectedWord = [];
